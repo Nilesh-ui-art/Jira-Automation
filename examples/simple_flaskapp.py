@@ -12,7 +12,7 @@ def createJIRA():
 
     url = "https://dailyproject-management.atlassian.net/rest/api/3/issue"
 
-    API_TOKEN = "ATATT3xFfGF0e5FN5aJs3Zi_mVNzcVNZTuvD-8HSsdNppiIDrHM-rzwmupDDLKaveTughdm5PWGhTMTIVw823hAJNtd_Wy8unxnWaMpS3M5jsxYt3H_iMmADbP2q-dhAfBZbxDzowBzKt5PMacNMczEvUixfgaRclc53CsoRtabgBe8-GsMJePY=F584F9AE"
+    API_TOKEN = "ATATT3xFfGF0uH7FvNLyYkD-MKte6DyJVCCiSvdknp77WW38lC9-0bRppVZKSoHGPY2SRrY7wKRRA5xPFhTqh6fiT-praVyn9GdT2H-43d_UiMtO1wk5rZBY_otV6k7a5U_g-IBHyE-nDyQHcHdZFCn44H1ucLD9KXAJm46XKqaTpreDcS3zftk=A834438A"
 
     auth = HTTPBasicAuth("authenticate007@gmail.com", API_TOKEN)
 
