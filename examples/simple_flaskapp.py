@@ -10,7 +10,7 @@ app = Flask(__name__)
 def createJIRA():
     url = "https://dailyproject-management.atlassian.net/rest/api/3/issue"
 
-    API_TOKEN = "ATATT3xFfGF0N7-GP_kWK8c1_aUG5WsuQrwAggh8Lt_kZy7Q-oo98zoEESta-xwn9l76EZmJ79qWpG6d0McBBr-snernfDPzcIn4mALXupC1b2roMN7CY4CPb-S6kWit0RAWAoI0WT4bA4aTHBYSVSakyzYGEYMnpvZJ6ecpeAJXUIEU77lLw24=2BC4B139"
+    API_TOKEN = "ATATT3xFfGF0RT2iK5GQpyBGTaDM1e9mnPBD96Wnqy3_aMuqyi7Iewefm7J9gv33z2wW-OUW3I0e2eackDla4JAt_Yl2MccSf5RjlwXlB4CqsjVq4TWfAa-y2uSTbMidFfBzHgxTSSf2JsBMcwNAxS7NJgGSGy7poR6MOLdsCAR5a0s-m3NUYPs=FADAB359"
 
     auth = HTTPBasicAuth("authenticate007@gmail.com", API_TOKEN)
 
