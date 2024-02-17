@@ -49,7 +49,7 @@ def createJIRA():
         "key": "GJA"
         },
     
-        "summary": "First JIRA Ticket",
+        "summary": "Jira Ticket for Repo Automation",
     },
     "update": {}
     } )
